@@ -1,9 +1,7 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/Zhdxm9m/github-tham-1.png"  />
-</div>
 
-###<div align="center">
-  <img height="440" src="https://i.ibb.co.com/Zhdxm9m/github-tham-1.png"  />
+###
+<div align="center">
+  <img height="220" width="100" src="https://i.ibb.co.com/Zhdxm9m/github-tham-1.png"  />
 </div>
 
 ###
