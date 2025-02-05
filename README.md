@@ -25,6 +25,10 @@
 ###
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bikash-sarker-dev&theme=blux&hide_border=true" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=bikash-sarker-dev&show_icons=true" alt="Anurag's GitHub stats">
+<a href="https://github.com/bikash-sarker-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=bikash-sarker-dev&show_icons=true" alt="Anurag's GitHub stats">
+</a>
 
 ###
 
