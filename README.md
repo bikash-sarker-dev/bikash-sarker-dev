@@ -28,6 +28,8 @@
 
 ###
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bikash-sarker-dev&theme=blux" alt="GitHub Streak" /></a>
+
 <h3 align="left">Languages:</h3>
 
 ###
