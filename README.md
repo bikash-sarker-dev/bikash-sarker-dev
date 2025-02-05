@@ -18,13 +18,6 @@
 
 <p align="left">🔭 I’m currently working on full stack development projects.<br>🌱   I’m currently learning Next.js<br>👨🏻‍💻   Most of my projects are available on GitHub<br>💬 Ask me about anything tech related, I am happy to help<br>👯 I’m willing to collaborate on building communities, and open-source projects.</p>
 
-###
-
-<h2 align="left"> GitHub Streaks</h2>
-
-###
-<img src="https://streak-stats.demolab.com?user=bikash-sarker-dev&theme=blux&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=bikash-sarker-dev&show_icons=true" alt="Anurag's GitHub stats">
 
 
 ###
