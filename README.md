@@ -24,7 +24,10 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bikash-sarker-dev&theme=blux)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=bikash-sarker-dev&theme=blux" alt="GitHub Streak">
+</a>
+
 ###
 
 <h2 align="left">🛠️ Technologies & Skills</h2>
